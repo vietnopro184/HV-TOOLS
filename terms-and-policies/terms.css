@@ -1,0 +1,44 @@
+#iddkvacs {
+    background: linear-gradient(90deg, #000000 0%, #00172d 30%, #0066cc 100%);
+    font-family: 'Segoe UI', sans-serif;
+    padding: 7% 10% 10% 10%;
+}
+
+
+.dieukhoanvachinhsach {
+    font-weight: bold;
+    font-size: 1.8rem;
+    font-style: italic;
+    color: aqua;
+    text-align: center;
+    text-shadow: 0 0 10px rgba(0, 234, 255, 0.8);
+    
+}
+
+/* .form-dkvacs {
+    opacity: 0;
+    animation: fadeIn 3s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+        transition: 0.4s;
+    }
+} */
+
+
+.form-dkvacs p {
+    color: white;
+    font-size: 18px;
+    font-weight: 450;
+}
+
+
+
+.form-dkvacs h2 {
+    font-size: 20px;
+}
